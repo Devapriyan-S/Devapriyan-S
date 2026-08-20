@@ -15,17 +15,28 @@
 
 ### Start here
 
+Two pure-frontend pieces, built to show both halves of graphics programming.
+
+**[Crumb](https://github.com/Devapriyan-S/crumb-cafe)** — a cafe site where the
+food is a live 3D render, not a photograph. Scroll and a burger flies toward
+you, comes apart layer by layer, and reassembles. No model files: a bun is a
+profile curve spun around an axis, cheese is a superellipse with drooping
+corners. Solid shaded meshes, per-fragment lighting, a real shadow map — and a
+test that projects the meshes through the camera to prove the food never leaves
+the shot. **[Take a look →](https://devapriyan-s.github.io/crumb-cafe/)**
+
 **[Inside a Neural Network](https://github.com/Devapriyan-S/inside-a-neural-network)** —
 scroll, and the camera flies through a five-layer network while it computes.
-Hand-written WebGL and GLSL: no three.js, no framework, no build step. Three
-instanced draw calls a frame for 12,670 instances, and the entire choreography —
-camera, activations, signal positions, copy — is one pure function of scroll
-position, tested in Node without a browser.
+The opposite discipline: additive points and lines, no depth buffer at all,
+three instanced draw calls for 12,670 instances. The whole choreography is one
+pure function of scroll position, tested in Node without a browser.
 **[Take the flight →](https://devapriyan-s.github.io/inside-a-neural-network/)**
+
+Both are hand-written WebGL and GLSL. No three.js, no framework, no build step.
 
 ---
 
-### Fifteen projects. All live. None of the tools hardcode a dataset.
+### Sixteen projects. All live. None of the tools hardcode a dataset.
 
 You bring your own CSV and they figure it out. Most run real Python —
 scikit-learn, statsmodels, scipy — compiled to WebAssembly in your browser, so
