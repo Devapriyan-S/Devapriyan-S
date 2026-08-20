@@ -13,7 +13,19 @@
 
 ---
 
-### Fourteen projects. All live. None of them hardcode a dataset.
+### Start here
+
+**[Inside a Neural Network](https://github.com/Devapriyan-S/inside-a-neural-network)** —
+scroll, and the camera flies through a five-layer network while it computes.
+Hand-written WebGL and GLSL: no three.js, no framework, no build step. Three
+instanced draw calls a frame for 12,670 instances, and the entire choreography —
+camera, activations, signal positions, copy — is one pure function of scroll
+position, tested in Node without a browser.
+**[Take the flight →](https://devapriyan-s.github.io/inside-a-neural-network/)**
+
+---
+
+### Fifteen projects. All live. None of the tools hardcode a dataset.
 
 You bring your own CSV and they figure it out. Most run real Python —
 scikit-learn, statsmodels, scipy — compiled to WebAssembly in your browser, so
@@ -32,9 +44,11 @@ ever leaves your machine.
 | **[Dataset Explorer](https://github.com/Devapriyan-S/dataset-explorer)** | Opens a 100,000-row CSV in 461 ms and scrolls it at 60 fps | [demo](https://devapriyan-s.github.io/dataset-explorer/) |
 | **[Chart Studio](https://github.com/Devapriyan-S/chart-studio)** | Seven chart types as hand-written SVG, with SVG and PNG export | [demo](https://devapriyan-s.github.io/chart-studio/) |
 
-### And three games, because the ML is easier to feel than to read about
+### And five you play with your face, hands or voice
 
-| Game | The idea | Try it |
+Because a model is easier to feel than to read about.
+
+| Project | The idea | Try it |
 |---|---|:--:|
 | **[Mind Reader](https://github.com/Devapriyan-S/mind-reader-rps)** | Rock paper scissors against a Hedge ensemble that learns your habits — 100% against a predictable player, and correctly 32.9% against a truly random one | [play](https://devapriyan-s.github.io/mind-reader-rps/) |
 | **[Keep a Straight Face](https://github.com/Devapriyan-S/straight-face)** | The page tries to make you laugh; a smile detector calibrated to your own resting face decides when you cracked | [play](https://devapriyan-s.github.io/straight-face/) |
