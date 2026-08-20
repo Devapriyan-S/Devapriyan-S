@@ -7,7 +7,8 @@
 
 <p align="center">
   <a href="https://devapriyan-s.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-devapriyan--s.github.io-39d6d0?style=for-the-badge"></a>
-  <a href="mailto:devapriyan@counton.ai"><img alt="Email" src="https://img.shields.io/badge/email-devapriyan%40counton.ai-7c5ce0?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/deva-priyan-sampath-2091a7288/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:devapriyan1723@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-devapriyan1723%40gmail.com-7c5ce0?style=for-the-badge"></a>
 </p>
 
 ---
@@ -74,4 +75,9 @@ wrong conclusion.
 
 <p align="center">
   <a href="https://devapriyan-s.github.io/"><strong>See all nine projects →</strong></a>
+  <br><br>
+  <sub>
+    <a href="https://www.linkedin.com/in/deva-priyan-sampath-2091a7288/">LinkedIn</a> ·
+    <a href="mailto:devapriyan1723@gmail.com">devapriyan1723@gmail.com</a>
+  </sub>
 </p>
